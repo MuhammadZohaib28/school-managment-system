@@ -10,6 +10,12 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        customSky: "#C3EBFA",
+        customLightSky: "#EDF9FD",
+        customPurple: "#CFCEFF",
+        customLightPurple: "#F1F0FF",
+        customYellow: "#FAE27C",
+        customLightYellow: "#FEFCE8",
       },
     },
   },
